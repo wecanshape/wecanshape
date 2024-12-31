@@ -11,6 +11,12 @@
       }
 }
 
+@media screen and (max-width: 767px) {
+      #wecanshape-home-h1-punjab-title{
+        display: none;
+      }
+}
+
 #wecanshape-contact-us-grid{
     grid-template-columns: 1fr 3fr 1fr;
 }
